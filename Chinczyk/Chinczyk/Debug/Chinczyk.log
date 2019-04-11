@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+c:\users\frosty\desktop\chinczyk\chinczyk\źródło.cpp(29): warning C4309: "inicjowanie": obcięcie stałej wartości
+c:\users\frosty\desktop\chinczyk\chinczyk\źródło.cpp(199): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+c:\users\frosty\desktop\chinczyk\chinczyk\źródło.cpp(2420): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\frosty\desktop\chinczyk\chinczyk\źródło.cpp(2441): warning C4309: "=": obcięcie stałej wartości
+  Chinczyk.vcxproj -> C:\Users\FrostY\Desktop\Chinczyk\Debug\Chinczyk.exe
